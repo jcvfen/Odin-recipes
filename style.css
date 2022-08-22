@@ -1,4 +1,6 @@
-
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .h1 {
 
     font-weight: 800;
@@ -8,4 +10,8 @@
 }
 ul.a {
     font-style: italic, bold;
+}
+img {
+    height: 400px;
+    width: auto;
 }
